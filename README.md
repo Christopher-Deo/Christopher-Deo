@@ -5,7 +5,8 @@ Here's a fun fact about me:
 
 🔥 I caught fire coding! 🔥 
 
-OK, so not literally, but now that I've got your attention...🤣
+OK, so not literally, 
+but now that I've got your attention...🤣
 
 I always thought my dream was to be an author, sipping my coffee and occasional mocha latte in my favorite coffee shop while drafting the opening lines to the next best-selling historical action novel. It seemed like an appropriate dream given my creativity, skill and love of writing. But, life had other plans!
 
@@ -13,21 +14,21 @@ Although I earned my B.S. degree in Management & Human Relations, I've always gr
 
 Front-end web development calls to all my passions; it incorporates creativity and problem solving and I'm allowed to break things (call me Wrek IT Ralph!🤣)to find ways to improve the code (in a separate Git branch, of course). I love applying responsive design principles and watching my web pages shrink into mobile screens and still look amazing. It's oddly satisfying being able to look back on the day and say "I built /helped build that...". I think in a way I'm kind of like those web pages; I'm moldable, but I still keep my creative flare intact. 
 
-My specialties include quickly learning new skills and programming languages, problem solving, domain driven design, responsive design principles, website optimization, and the Model View View Model (MVVM) and Model View Controller (MVC) methods of organizing code. So far I have JavaScript, HTML, CSS, React, and Git/GitHub under my belt and I'm in the process of adding Back End Technologies. I'm still enthusiastically grabbing onto Python and any other programming languages, frameworks, or principles I can integrate into the coding web in my head.  
+My specialties include quickly learning new skills and programming languages, problem solving, domain driven design, and responsive design principles. So far I have JavaScript, HTML, CSS, React, Bootstrap, U.I libraries such as Material UI, and version control using Git/GitHub under my belt and I'm in the process of adding Back End Technologies to the list. I'm still enthusiastically grabbing onto Front End Frameworks, Libraries, and any other programming languages, or principles I can integrate into the coding web in my head 🧠.  
 
 More Fun Facts About Me:
 
-* 🌍  I'm based in Kansas City 
+*  🌍  I'm based in Kansas City 
 
-* * 🖥️  See my portfolio at [ChristopherDeo.com](http://ChristopherDeo.com)
+*  🖥️  See my portfolio at [ChristopherDeo.com](http://ChristopherDeo.com)
 
-* ✉️  You can contact me at [Chris@christopherdeo.com](mailto:Chris@christopherdeo.com) 
+*  ✉️  You can contact me at [Chris@christopherdeo.com](mailto:Chris@christopherdeo.com) 
 
-* 🚀  I'm currently working on [LeadSavr, a lead management software built on React using AWS Amplify for user authentication & authorization and AWS DynamoDB for a storage solution.] (http://LeadSavr.ChristopherDeo.com) 
+*  🚀  I'm currently working on [LeadSavr, a lead management software built on React using AWS Amplify for user authentication & authorization and AWS DynamoDB for a storage solution.] (http://LeadSavr.ChristopherDeo.com) 
 
-* 🧠  I'm learning React, Express.JS, AWS Amplify
+*  🧠  I'm learning React, Express.JS, AWS Amplify
 
-* 🤝  I'm open to collaborating on new and interesting projects that make a positive impact for users.  Let's collaborate on your next project!
+*  🤝  I'm open to collaborating on new and interesting projects that make a positive impact for users.  Let's collaborate on your next project!
 
 
 ### Skills  
