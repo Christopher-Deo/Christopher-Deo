@@ -26,7 +26,7 @@ More Fun Facts About Me:
 
 *  🚀  I'm currently working on [LeadSavr, a lead management software built on React using AWS Amplify for user authentication & authorization and AWS DynamoDB for a storage solution.] (https://github.com/Christopher-Deo/lead-savr) 
 
-*  🧠  I'm learning React, Express.JS, AWS Amplify
+*  🧠  I'm learning about SQL & NoSQL Databases, Express.js, AWS, and other backend technologies while continuing to hone my React and Front End Development skills.
 
 *  🤝  I'm open to collaborating on new and interesting projects that make a positive impact for users.  Let's collaborate on your next project!
 
