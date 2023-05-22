@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Here's a fun fact about me:
 
-🔥 I caught fire coding! 🔥 
+🔥 I caught fire, coding! 🔥 
 
 OK, so not literally, 
 but now that I've got your attention...🤣
