@@ -1,24 +1,24 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christopher Deo. I'm a Software and App Developer specializing in Front End Development.
+🌟 Accidental Polyglot | 🚀 Code Sorcerer | 🎨 Creative Alchemist | 🌐 Digital Multiverse Explorer | ☁️ Cloud Dreamer
 
+👋 Greetings, fellow voyager of the digital realm! I'm Christopher Deo, the "Accidental Polyglot" who stumbled upon the mystical world of code, transforming into a true Code Sorcerer.
 
-Here's a fun fact about me:
+🪄 My journey commenced as a Front-End JavaScript and React Developer, conjuring interactive spells for users. However, fate had other plans, and I found myself diving headfirst into a mesmerizing multiverse of programming languages.
 
-🔥 I caught fire, coding! 🔥 
+🎨 Today, I weave intricate tapestries of code using the languages of JavaScript, Java, Python, and even a touch of C#, infusing each project with the essence of a Creative Alchemist.
 
-OK, so not literally, 
-but now that I've got your attention...🤣
+💾 Delving into data's deepest realms, I sculpt and query SQL and MySQL databases with an artisan's touch, crafting data landscapes that tell stories. Among the clouds of AWS, I am a Cloud Dreamer, orchestrating digital dreams.
 
-I always thought my dream was to be an author, sipping my coffee and occasional mocha latte in my favorite coffee shop while drafting the opening lines to the next best-selling historical action novel. It seemed like an appropriate dream given my creativity, skill and love of writing. But, life had other plans!
+🌐 In this grand digital adventure, I wield Git and GitHub as my magical staff, ensuring version control harmony across the code cosmos.
 
-Although I earned my B.S. degree in Management & Human Relations, I've always gravitated toward traditionally blue-collar positions and even started my own contracting and trucking businesses. But I kind of just felt meh. Like something was missing.  I yearned to learn and do more, yearned to learn something different.  And that's when it happened, the spark I had been missing reignited the instant I started to learn about software development.  I had learned a little bit about programming years ago when BASIC-A and DOS were the norm.  The years passed and my focus shifted.  I went about developing and improving my business skills while letting my coding take a back seat. But then I discovered digital marketing built my first modern website.  Up to that point, I had only been a web consumer, but now I was encroaching on the development side of things and I was hooked!  
+🚀 Join me on this journey through the boundless realms of technology, where every line of code is a stroke of artistry and every project is a portal to innovation.
 
-That first site was built on WordPress. As my skills and knowledge increased, I discovered my current and favorite language, JavaScript. I mean seriously, how could it not be the greatest when it's named after my two favorite things, ☕️ coffee and 🧑🏽‍💻 coding!  Since then, I just can't get enough!  I'm constantly on the lookout for new libraries, frameworks, and languages to implement in my projects and add to my knowledge base!
+🪄 Ready to embark on a spellbinding code odyssey together? Don't hesitate to reach out and let's create digital wonders that defy expectations! 
 
-Front-end web development calls to all my passions; it incorporates creativity and problem solving and I'm allowed to break things (call me Wrek IT Ralph!🤣)to find ways to improve the code (in a separate Git branch, of course). I love applying responsive design principles and watching my web pages shrink into mobile screens and still look amazing. It's oddly satisfying being able to look back on the day and say "I built /helped build that...". I think in a way I'm kind of like those web pages; I'm moldable, but I still keep my creative flare intact. 
-
-My specialties include quickly learning new skills and programming languages, problem solving, domain driven design, and responsive design principles. So far I have JavaScript, HTML, CSS, React, Bootstrap, U.I libraries such as Material UI, and version control using Git/GitHub under my belt and I'm in the process of adding Back End Technologies to the list. I'm still enthusiastically grabbing onto Front End Frameworks, Libraries, and any other programming languages, or principles I can integrate into the coding web in my head 🧠.  
+🌟 #AccidentalPolyglot #CodeSorcerer #CreativeAlchemist #DigitalExplorer #CloudDreamer
 
 More Fun Facts About Me:
+
+*  🌟   I'm a Junior Application Developer with Clinical Reference Laboratory
 
 *  🌍  I'm based in Kansas City 
 
@@ -28,7 +28,7 @@ More Fun Facts About Me:
 
 *  🚀  I'm currently working on [LeadSavr, a lead management software built on React using AWS Amplify for user authentication & authorization and AWS DynamoDB for a storage solution.] (https://github.com/Christopher-Deo/lead-savr) 
 
-*  🧠  I'm learning about SQL & NoSQL Databases, Express.js, AWS, and other backend technologies while continuing to hone my React and Front End Development skills.
+*  🧠  I'm continually learning more about Java, Python, C#, SQL & NoSQL Databases, Express.js, AWS, and other backend technologies while continuing to hone my React and Front End Development skills.
 
 *  🤝  I'm open to collaborating on new and interesting projects that make a positive impact for users.  Let's connect and collaborate on your next project!
 
